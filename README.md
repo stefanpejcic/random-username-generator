@@ -1,6 +1,7 @@
 # random-username-generator
 
-Used by [OpenPanel](https://openpanel.com/) to generate a random admin username and password on installation.
+Used by [OpenPanel](https://openpanel.com/) to generate a random admin username on installation.
+
 inspired by [Moby's Package namesgenerator](https://github.com/moby/moby/blob/master/internal/namesgenerator/names-generator.go)
 
 # Usage
