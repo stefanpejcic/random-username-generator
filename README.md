@@ -4,7 +4,9 @@ Used by [OpenPanel](https://openpanel.com/) to generate a random admin username 
 
 inspired by [Moby's Package namesgenerator](https://github.com/moby/moby/blob/master/internal/namesgenerator/names-generator.go)
 
-# Usage
+---
+
+## Usage
 
 On terminal:
 ```bash
