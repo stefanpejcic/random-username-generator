@@ -1,4 +1,4 @@
-# random-username-generator
+# random username generator
 
 Used by [OpenPanel](https://openpanel.com/) to generate a random admin username on installation.
 
